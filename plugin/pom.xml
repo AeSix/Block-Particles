@@ -5,7 +5,7 @@
     <parent>
         <artifactId>blockparticles-parent</artifactId>
         <groupId>me.badbones69</groupId>
-        <version>1.12</version>
+        <version>1.12.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -22,7 +22,7 @@
         <dependency>
             <groupId>me.badbones69</groupId>
             <artifactId>blockparticles-api</artifactId>
-            <version>1.12</version>
+            <version>1.12.1</version>
             <type>jar</type>
             <scope>compile</scope>
             <optional>true</optional>
@@ -30,7 +30,7 @@
         <dependency>
             <groupId>me.badbones69</groupId>
             <artifactId>blockparticles-v1_13_R1_Up</artifactId>
-            <version>1.12</version>
+            <version>1.12.1</version>
             <type>jar</type>
             <scope>compile</scope>
             <optional>true</optional>
@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.16.2-R0.1-SNAPSHOT</version>
+            <version>1.16.5-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
